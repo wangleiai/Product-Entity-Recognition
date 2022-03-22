@@ -8,3 +8,4 @@ ner-camp/code/2-crf/CRF058/chinese/train.rst
 ner-camp/code/2-crf/CRF058/chinese/train.data
 ner-camp/code/2-crf/CRF058/chinese/test.data
 competition_code/data
+competition_code/product_crf_model.joblib
