@@ -1,3 +1,9 @@
 .ipynb_checkpoints
 .idea
-ner-camp/code
+ner-camp
+ner-camp/code/3-bilstm-crf/NER-BiLSTM-CRF-PyTorch
+ner-camp/code/2-crf/CRF058/chinese
+ner-camp/code/2-crf/sklearn_crf/data
+ner-camp/code/2-crf/CRF058/chinese/train.rst
+ner-camp/code/2-crf/CRF058/chinese/train.data
+ner-camp/code/2-crf/CRF058/chinese/test.data
